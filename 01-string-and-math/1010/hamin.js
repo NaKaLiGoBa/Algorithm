@@ -1,6 +1,5 @@
 let fs = require('fs');
-// let input = fs.readFileSync('/dev/stdin').toString().split('\n');
-let input = fs.readFileSync('data.txt').toString().split('\n');
+let input = fs.readFileSync('/dev/stdin').toString().split('\n');
 
 function factorial(n) {
   if (n === 1) {
@@ -20,5 +19,5 @@ for (let i = 1; i <= input[0]; i++) {
     continue;
   };
 
-  console.log(factorial(right) / (factorial(left) * factorial(right - left)));
+  console.log(Math.round(factorial(right) / (factorial(left) * factorial(right - left))));
 };
