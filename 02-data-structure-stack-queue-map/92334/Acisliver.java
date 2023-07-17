@@ -19,7 +19,6 @@ public class N92334 {
 
         for (String userId : id_list) {
             reportsByReportee.put(userId, new HashSet<>());
-            mailsByReporter.put(userId, 0);
         }
 
         for (String r : report) {
@@ -37,13 +36,13 @@ public class N92334 {
 
             for (Report r : reports) {
                 String reporter = r.reporter;
-                mailsByReporter.put(reporter, mailsByReporter.get(reporter) + 1);
+		mailsByReporter.merge(reporter, 1, Integer::sum);
             }
         }
 
         for (int i = 0; i < id_list.length; i++) {
             String userId = id_list[i];
-            mails[i] = mailsByReporter.get(userId);
+            mails[i] = mailsByReporter.getOrDefault(userId, 0);
         }
 
         return mails;
