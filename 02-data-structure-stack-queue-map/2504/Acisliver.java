@@ -19,7 +19,7 @@ public class N2504 {
         boolean flag = false;
 
         for (char cur : str) {
-            if (cur == '(' || cur == '[') {
+            if (cur == '(' || cur == '[') {    // 여는 괄호일 경우 해당 temp에 숫자를 곱해둡니다.
                 stack.push(cur);
                 temp *= cur == '(' ? 2 : 3;
                 flag = false;
@@ -32,12 +32,12 @@ public class N2504 {
             }
 
             char prev = stack.pop();
-            if (prev == '(') {
+            if (prev == '(') {            // 닫는 괄호일 경우 앞에서 곱해진 값들로 값이 정해집니다. ex) [[[] => 27
                 if (cur != ')') {
                     System.out.println(0);
                     return;
                 }
-                if (flag) {
+                if (flag) {               // 닫는 괄호가 연달아 올 경우 하나의 숫자가 여러번 더해져서 예외처리 했습니다. ex) [[[]] 에서 27을 이미 더했는데 9를 또 더하면 안됨
                     temp /= 2;
                     continue;
                 }
@@ -60,7 +60,7 @@ public class N2504 {
             }
         }
 
-        if (!stack.isEmpty()) {
+        if (!stack.isEmpty()) {        // 만약 스택에 값이 남아있다면 괄호가 정확하지 않는 것입니다.
             System.out.println(0);
             return;
         }
