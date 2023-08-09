@@ -24,7 +24,7 @@ const DFS = (cnt, result) => {
 
       DFS(cnt + 1, calculator[i](result, A[cnt + 1]));
 
-      operator[i] += 1;   //배열 원상복구
+      operator[i] += 1;
     };
   };
 };
