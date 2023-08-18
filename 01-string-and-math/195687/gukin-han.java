@@ -7,9 +7,7 @@ class Main {
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		int N = Integer.parseInt(st.nextToken());
 		int K = Integer.parseInt(st.nextToken());
-		int[] givenIntArray = Arrays.stream(br.readLine().split(" "))
-																.mapToInt(Integer::parseInt)
-																.toArray();
+		int[] givenIntArray = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 		
 		List<NewInt> newInt = new ArrayList<>();
 		for (int givenInt: givenIntArray) {
