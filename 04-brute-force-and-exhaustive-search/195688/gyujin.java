@@ -5,7 +5,6 @@ class Main {
 	private static int N;
 	private static String str;
 	private static ArrayList<String> list;
-	private static HashSet<String> set;
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
