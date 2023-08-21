@@ -12,28 +12,27 @@ class Main {
 		N = Integer.parseInt(br.readLine());
 		str = br.readLine();
 		
-		set = new HashSet<>();      // 중복 제거하기 위해 HashSet 사용. 
-		
-		scoreBoard();               // P를 만들기 위함.
-        
-		list = new ArrayList<>(set);        // 중복을 제거한 HashSet을 정렬하기 위해 ArrayList에 담음.
+		list = new ArrayList<>(scoreBoard());        // 중복을 제거한 HashSet을 정렬하기 위해 ArrayList에 담음.
 		Collections.sort(list);             // 오름차순 정렬.
 	
 		System.out.println(scoreMax());     // scoreBoard에서 했던거와 같이 scoreMax도 브루트포스로 검사하여 최대값을 return
 	}
 	
-	private static void scoreBoard() {          
-			for (int i = 1; i < N - 1; i++) {
-				for(int j = i + 1; j < N; j++) {
-					String first = str.substring(0, i);
-					String second = str.substring(i, j);
-					String third = str.substring(j);
+	private static HashSet<String> scoreBoard() {       	// P를 만들기 위함.
+		HashSet<String> set = new HashSet<>();		// 중복 제거하기 위해 HashSet 사용. 
+		
+		for (int i = 1; i < N - 1; i++) {
+			for(int j = i + 1; j < N; j++) {
+				String first = str.substring(0, i);
+				String second = str.substring(i, j);
+				String third = str.substring(j);
 				
-					set.add(first);
-					set.add(second);
-					set.add(third);
+				set.add(first);
+				set.add(second);
+				set.add(third);
 			}
 		}
+		return set;
 	}
 	
 	private static int scoreMax() {
