@@ -46,6 +46,7 @@ class Main {
 	}
 	
 	private static void updateBoard(int[] aBomb, List<String[]> board, int[][] memo) {
+		
 		// get y, x
 		int row = aBomb[0];
 		int col = aBomb[1];
@@ -55,16 +56,14 @@ class Main {
 			int rowToCheck = row + dRow[i];
 			int colToCheck = col + dCol[i];
 			
-			if (rowToCheck >= 0 && rowToCheck < memo.length && 
-					colToCheck >= 0 && colToCheck < memo.length) {
-				String stateIs = board.get(rowToCheck)[colToCheck];
-				
-				
-				switch (stateIs) {
-					case "0": memo[colToCheck][rowToCheck] += 1; break;
-					case "@": memo[colToCheck][rowToCheck] += 2; break;
-					default: break;
-				}
+			if (rowToCheck < 0 || rowToCheck >= memo.length || 
+					colToCheck < 0 || colToCheck >= memo.length) continue;
+			
+			String stateIs = board.get(rowToCheck)[colToCheck];
+			switch (stateIs) {
+				case "0": memo[colToCheck][rowToCheck] += 1; break;
+				case "@": memo[colToCheck][rowToCheck] += 2; break;
+				default: break;
 			}
 		}
 	}
