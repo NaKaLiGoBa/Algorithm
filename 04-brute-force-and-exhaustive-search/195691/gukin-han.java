@@ -45,9 +45,7 @@ class Main {
 		System.out.println(maxDamage);
 	}
 	
-	private static void updateBoard(int[] aBomb, 
-													 List<String[]> board, 
-													 int[][] memo) {
+	private static void updateBoard(int[] aBomb, List<String[]> board, int[][] memo) {
 		// get y, x
 		int row = aBomb[0];
 		int col = aBomb[1];
