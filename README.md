@@ -7,14 +7,26 @@
 * 알고리즘 풀이 루틴을 만들어 습관 형성
 <br>
 
-## 알고리즘 문제 소스
+## 📚 알고리즘 문제 소스
 * [LeetCode](https://leetcode.com/)
 * [백준](https://www.acmicpc.net/)
 * [goormlevel](https://level.goorm.io/)
 * [프로그래머스](https://programmers.co.kr/)
 <br>
 
-## 1차 운영
+## 우리가 순서를 정하는 방법
+<img width="1091" alt="image" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/c166ad14-a1e4-4ef5-bc77-5ca74d6bab8b">
+
+* [🔗원판돌리기](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0) | [🔗사다리게임](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%82%AC%EB%8B%A4%EB%A6%AC%EA%B2%8C%EC%9E%84) | [🔗제비뽑기](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%A0%9C%EB%B9%84%EB%BD%91%EA%B8%B0) | [🔗당첨자 추첨](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EB%8B%B9%EC%B2%A8%EC%9E%90%20%EC%B6%94%EC%B2%A8)
+
+## 🛠️ 스터디 운영 기록
+### 2차
+* 모집 기간: 2023.08.29 ~ 2023.09.06
+* 활동 기간: 2023.09.07 ~ 2023.11.28 (약 2개월)
+* 모집 인원: 4명
+<br>
+
+### 1차
 * 모집 기간: 2023.06.30 ~ 2023.07.07
 * 활동 기간: 2023.07.10 ~ 2023.09.06 (약 2개월)
 * 모집 인원: 5명
