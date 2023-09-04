@@ -14,6 +14,19 @@
 * [프로그래머스](https://programmers.co.kr/)
 <br>
 
+### 알고리즘 유형 분류
+1. 수학 및 문자열
+2. 자료구조 - 스택, 큐, 맵
+3. DFS, BFS, 그래프 이론
+4. 완전탐색, 백트래킹
+5. 누적합, 투포인터
+6. DP, LIS, 비트마스킹
+7. 그리디
+8. 이분탐색
+9. 최단거리
+10. MST
+<br>
+
 ## 우리가 순서를 정하는 방법
 <img width="1091" alt="image" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/c166ad14-a1e4-4ef5-bc77-5ca74d6bab8b">
 
