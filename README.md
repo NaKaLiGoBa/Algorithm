@@ -7,6 +7,13 @@
 * 알고리즘 풀이 루틴을 만들어 습관 형성
 <br>
 
+## 알고리즘 문제 소스
+* [LeetCode](https://leetcode.com/)
+* [백준](https://www.acmicpc.net/)
+* [goormlevel](https://level.goorm.io/)
+* [프로그래머스](https://programmers.co.kr/)
+<br>
+
 ## 1차 운영
 * 모집 기간: 2023.06.30 ~ 2023.07.07
 * 활동 기간: 2023.07.10 ~ 2023.09.06 (약 2개월)
