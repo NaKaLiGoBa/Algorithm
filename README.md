@@ -1,6 +1,6 @@
 # 알고리즘 스터디
 ## 아래와 같은 목표로 하면 좋아요
-* 빈출 유형 반복 학습을 통해, 대기업 코딩테스트를 통과할 수 있는 실력과 자신감
+* 빈출 유형[[1](https://github.com/tony9402/baekjoon/blob/main/CodingTest.md#%EC%B5%9C%EA%B7%BC-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%95%EB%A6%AC)] 반복 학습을 통해, 대기업 코딩테스트를 통과할 수 있는 실력과 자신감
 * 주력 프로그래밍 언어 특성을 체득하고, 컴퓨팅 사고력 향상
 * 각자의 풀이를 제출하고 코드 리뷰를 통해 피드백
 * 발표를 통해 소프트 스킬 향상
@@ -18,6 +18,7 @@
 <img width="1091" alt="image" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/c166ad14-a1e4-4ef5-bc77-5ca74d6bab8b">
 
 * [🔗원판돌리기](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0) | [🔗사다리게임](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%82%AC%EB%8B%A4%EB%A6%AC%EA%B2%8C%EC%9E%84) | [🔗제비뽑기](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%A0%9C%EB%B9%84%EB%BD%91%EA%B8%B0) | [🔗당첨자 추첨](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EB%8B%B9%EC%B2%A8%EC%9E%90%20%EC%B6%94%EC%B2%A8)
+<br>
 
 ## 🛠️ 스터디 운영 기록
 ### 2차
