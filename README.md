@@ -61,7 +61,7 @@
 <p align="center"><img width="500" alt="Screenshot 2023-09-05 at 9 13 46 AM" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/8f415f8e-0153-4615-adea-0d4f705907d4"></p>
 <br>
 
-#### 4. 공개된 문제를 점심 시간전 (오후 1시)까지 풀이를 하고 스터디 리파짓토리에 PR를 합니다.
+#### 4. 공개된 문제를 점심 시간전 (오후 1시)까지 풀이를 하고 스터디 리파짓토리에 PR를 합니다. 풀지 못했다면 그대로 제출.
 #### 5. 점심 시간 이후, 오후 2시 부터 3시까지 코드 리뷰를 합니다.
 <p align="center"><img width="700" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/b1ba93a5-fe97-4d0c-95f6-afc1e73e9f50"></p>
 <br>
