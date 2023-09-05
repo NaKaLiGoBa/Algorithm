@@ -90,6 +90,19 @@
 * [백준 10942번: 팰린드롬?](https://www.acmicpc.net/problem/10942)
 <br>
 
+#### 자료구조 - 스택, 큐, 맵
+* [프로그래머스: 신고결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+* [백준 1966번: 프린터 큐](https://www.acmicpc.net/problem/1966)
+* [백준 1158번: 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+* [프로그래머스: 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+* [백준 17608번: 막대기](https://www.acmicpc.net/problem/17608)
+* [백준 2405번: 괄호의 값](https://www.acmicpc.net/problem/2504)
+<br>
+
+#### DFS, BFS, 그래프 이론
+* [백준 2667번: 단지번호 붙이기](https://www.acmicpc.net/problem/2667)
+* [백준 11724번: 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
+* [프로그래머스: 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 
 ## 🛠️ 2차 스터디 운영 기록
 ### 개요
