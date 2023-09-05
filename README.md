@@ -45,6 +45,16 @@
 * 팀원들간 상호 피드백 교환
 * 적어도 1주일에 한 번 이상 풀이 발표
 * 적어도 1주일간 동일한 유형을 반복적으로 풀이
+<br>
+
+### 학습 결과
+아래와 같은 문제와 유형들을 다룰 수 있었습니다:
+#### 수학 및 문자열
+* [백준 1316번: 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
+* [백준 17413번: 단어 뒤집기2](https://www.acmicpc.net/problem/17413)
+* [프로그래머스: N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
+* [백준 1010번: 다리놓기](https://www.acmicpc.net/problem/1010)
+* [백준 10942번: 팰린드롬?](https://www.acmicpc.net/problem/10942)
 
 ### 운영 프로토콜 A 유형
 1. 아래 정리된 문제 소스 및 유형을 기반으로 시작합니다.
