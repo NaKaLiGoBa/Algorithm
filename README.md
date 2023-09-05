@@ -47,6 +47,36 @@
 * 적어도 1주일간 동일한 유형을 반복적으로 풀이
 <br>
 
+### 운영 프로토콜
+#### 1. 스터디 시작 전, 일요일 자정까지 관련된 유형의 문제들을 선별하여, 노션 페이지에 업데이트합니다.
+<p align="center"><img width="400" alt="Screenshot 2023-09-05 at 9 10 40 AM" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/9f44a5b1-bbcc-4c99-90e5-7bc05d729efb"></p>
+<br>
+
+#### 2. 선별된 문제를 월, 화, 수, 목, 금에 랜덤으로 분배합니다.
+#### 3. 슬랙을 통해, 평일 오전 10시에 문제를 공개합니다.
+<p align="center"><img width="500" alt="Screenshot 2023-09-05 at 9 13 46 AM" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/8f415f8e-0153-4615-adea-0d4f705907d4"></p>
+<br>
+
+#### 4. 공개된 문제를 점심 시간전 (오후 1시)까지 풀이를 하고 스터디 리파짓토리에 PR를 합니다.
+#### 5. 점심 시간 이후, 오후 2시 부터 3시까지 코드 리뷰를 합니다.
+<p align="center"><img width="700" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/b1ba93a5-fe97-4d0c-95f6-afc1e73e9f50"></p>
+<br>
+
+#### 6. 오후 3시 부터 작성된 코드를 발표를 합니다.
+> 발표자는 [무작위](#우리가-순서를-정하는-방법)로 선별합니다.
+<img width="1091" alt="image" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/c166ad14-a1e4-4ef5-bc77-5ca74d6bab8b">
+
+* [🔗원판돌리기](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0) | [🔗사다리게임](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%82%AC%EB%8B%A4%EB%A6%AC%EA%B2%8C%EC%9E%84) | [🔗제비뽑기](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%A0%9C%EB%B9%84%EB%BD%91%EA%B8%B0) | [🔗당첨자 추첨](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EB%8B%B9%EC%B2%A8%EC%9E%90%20%EC%B6%94%EC%B2%A8)
+<br>
+
+#### 7. 발표는 [FigJam](https://www.figma.com/figjam/)의 판서 기능을 이용합니다.
+<img width="1552" alt="Screenshot 2023-09-05 at 9 22 33 AM" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/c1ff775c-e6e2-4d97-b97e-5099b2ccd1d6">
+
+<br>
+
+#### 8. 다음날 3-7을 반복합니다.
+<br>
+
 ### 학습 결과
 아래와 같은 문제와 유형들을 다룰 수 있었습니다:
 #### 수학 및 문자열
@@ -56,24 +86,6 @@
 * [백준 1010번: 다리놓기](https://www.acmicpc.net/problem/1010)
 * [백준 10942번: 팰린드롬?](https://www.acmicpc.net/problem/10942)
 <br>
-
-### 운영 프로토콜
-#### 1. 스터디 시작 전, 일요일 자정까지 관련된 유형의 문제들을 선별하여, 노션 페이지에 업데이트합니다.
-<p align="center"><img width="400" alt="Screenshot 2023-09-05 at 9 10 40 AM" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/9f44a5b1-bbcc-4c99-90e5-7bc05d729efb"></p>
-
-#### 2. 선별된 문제를 월, 화, 수, 목, 금에 랜덤으로 분배합니다.
-#### 3. 슬랙을 통해, 평일 오전 10시에 문제를 공개합니다.
-<p align="center"><img width="500" alt="Screenshot 2023-09-05 at 9 13 46 AM" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/8f415f8e-0153-4615-adea-0d4f705907d4"></p>
-
-#### 4. 공개된 문제를 점심 시간전 (오후 1시)까지 풀이를 하고 스터디 리파짓토리에 PR를 합니다.
-6. 점심 시간 이후, 오후 2시 부터 3시까지 코드 리뷰를 합니다.
-<p align="center"><img width="700" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/b1ba93a5-fe97-4d0c-95f6-afc1e73e9f50"></p>
-
-8. 3시 부터 작성된 코드를 발표를 합니다.
-9. 발표자는 [무작위](#우리가-순서를-정하는-방법)로 선별합니다.
-10. 다음날 4-8을 반복합니다.
-<br>
-
 
 
 ## 🛠️ 2차 스터디 운영 기록
@@ -113,10 +125,7 @@
 <br>
 
 ## 우리가 순서를 정하는 방법
-<img width="1091" alt="image" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/c166ad14-a1e4-4ef5-bc77-5ca74d6bab8b">
 
-* [🔗원판돌리기](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0) | [🔗사다리게임](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%82%AC%EB%8B%A4%EB%A6%AC%EA%B2%8C%EC%9E%84) | [🔗제비뽑기](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EC%A0%9C%EB%B9%84%EB%BD%91%EA%B8%B0) | [🔗당첨자 추첨](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&qvt=0&query=%EB%8B%B9%EC%B2%A8%EC%9E%90%20%EC%B6%94%EC%B2%A8)
-<br>
 
 ## Q&A
 ### Q1. 서로 다른 언어를 가진 인원들이 있는 경우
