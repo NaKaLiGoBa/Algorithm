@@ -103,6 +103,22 @@
 * [백준 2667번: 단지번호 붙이기](https://www.acmicpc.net/problem/2667)
 * [백준 11724번: 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 * [프로그래머스: 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+* [백준 2178번: 미로 탐색](https://www.acmicpc.net/problem/2178)
+* [백준 1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)
+* [백준 10974번: 모든 순열](https://www.acmicpc.net/problem/10974)
+* [백준 2644번: 촌수계산](https://www.acmicpc.net/problem/2644)
+* [백준 15649번: N과 M (1)](https://www.acmicpc.net/problem/15649)
+* []()
+* []()
+<br>
+
+#### 완전탐색, 백트래킹
+* [백준 15651번: N과 M (3)](https://www.acmicpc.net/problem/15651)
+* [백준 1759번: 암호 만들기](https://www.acmicpc.net/problem/1759)
+* [프로그래머스: N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+* [백준 2798번: 블랙잭](https://www.acmicpc.net/problem/2798)
+* [백준 2580번: 스도쿠](https://www.acmicpc.net/problem/2580)
+<br>
 
 ## 🛠️ 2차 스터디 운영 기록
 ### 개요
