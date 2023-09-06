@@ -73,6 +73,7 @@
 <br>
 
 #### 7. 발표는 [FigJam](https://www.figma.com/figjam/)의 판서 기능을 이용합니다.
+> 자신의 논리를 그림으로 표현하며 설명하는 과정이 중요하다고 생각합니다. 유럽 및 영어권 국가에서 보통 이런 방식을 사용합니다.
 <img width="1552" alt="Screenshot 2023-09-05 at 9 22 33 AM" src="https://github.com/NaKaLiGoBa/Algorithm/assets/115940366/c1ff775c-e6e2-4d97-b97e-5099b2ccd1d6">
 
 <br>
