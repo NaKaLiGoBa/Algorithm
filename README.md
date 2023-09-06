@@ -108,8 +108,8 @@
 * [백준 10974번: 모든 순열](https://www.acmicpc.net/problem/10974)
 * [백준 2644번: 촌수계산](https://www.acmicpc.net/problem/2644)
 * [백준 15649번: N과 M (1)](https://www.acmicpc.net/problem/15649)
-* []()
-* []()
+* [백준 14888번: 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+* [백준 2606번: 바이러스](https://www.acmicpc.net/problem/2606)
 <br>
 
 #### 완전탐색, 백트래킹
@@ -119,6 +119,8 @@
 * [백준 2798번: 블랙잭](https://www.acmicpc.net/problem/2798)
 * [백준 2580번: 스도쿠](https://www.acmicpc.net/problem/2580)
 <br>
+
+#### 구름톤 챌린지
 
 ## 🛠️ 2차 스터디 운영 기록
 ### 개요
