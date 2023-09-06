@@ -121,11 +121,24 @@
 <br>
 
 #### 구름톤 챌린지
-* [운동 중독 플레이어 - 수학 및 구현](https://level.goorm.io/exam/195683/%EC%9A%B4%EB%8F%99-%EC%A4%91%EB%8F%85-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4)
-* [프로젝트 매니징 - 수학 및 구현](https://level.goorm.io/exam/195684/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A7%95)
-* [합 계산기 - 수학 및 구현](https://level.goorm.io/exam/195685/%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0)
-* [완벽한 햄버거 만들기 - 수학 및 구현](https://level.goorm.io/exam/195686/%EC%99%84%EB%B2%BD%ED%95%9C-%ED%96%84%EB%B2%84%EA%B1%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-* [이진수 정렬 - 수학 및 구현](https://level.goorm.io/exam/195687/%EC%9D%B4%EC%A7%84%EC%88%98-%EC%A0%95%EB%A0%AC)
+1. [운동 중독 플레이어 - 수학 및 구현](https://level.goorm.io/exam/195683/%EC%9A%B4%EB%8F%99-%EC%A4%91%EB%8F%85-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4)
+2. [프로젝트 매니징 - 수학 및 구현](https://level.goorm.io/exam/195684/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A7%95)
+3. [합 계산기 - 수학 및 구현](https://level.goorm.io/exam/195685/%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0)
+4. [완벽한 햄버거 만들기 - 수학 및 구현](https://level.goorm.io/exam/195686/%EC%99%84%EB%B2%BD%ED%95%9C-%ED%96%84%EB%B2%84%EA%B1%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+5. [이진수 정렬 - 수학 및 구현](https://level.goorm.io/exam/195687/%EC%9D%B4%EC%A7%84%EC%88%98-%EC%A0%95%EB%A0%AC)
+6. [문자열 나누기 - 완전탐색](https://level.goorm.io/exam/195688/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EA%B8%B0)
+7. [구름 찾기 깃발 - 완전탐색](https://level.goorm.io/exam/195689/%EA%B5%AC%EB%A6%84-%EC%B0%BE%EA%B8%B0-%EA%B9%83%EB%B0%9C)
+8. [통증 - 완전탬색](https://level.goorm.io/exam/195690/%ED%86%B5%EC%A6%9D)
+9. [폭탄 구현하기(2) - 완전탐색](https://level.goorm.io/exam/195691/%ED%8F%AD%ED%83%84-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-2)
+10. [GameJam - 시뮬레이션](https://level.goorm.io/exam/195692/gamejam)
+11. ✅[통증 (2) - DP](https://level.goorm.io/exam/195693/%ED%86%B5%EC%A6%9D-2)
+12. [발전기 - 완전탐색](https://level.goorm.io/exam/195694/%EB%B0%9C%EC%A0%84%EA%B8%B0)
+13. [발전기 (2) - 완전 탐색](https://level.goorm.io/exam/195695/%EB%B0%9C%EC%A0%84%EA%B8%B0-2)
+14. [작은 노드 - 그래프](https://level.goorm.io/exam/195696/%EC%9E%91%EC%9D%80-%EB%85%B8%EB%93%9C)
+15. [과일 구매 - 그리디](https://level.goorm.io/exam/195697/%EA%B3%BC%EC%9D%BC-%EA%B5%AC%EB%A7%A4)
+16. [연합 - 그래프](https://level.goorm.io/exam/195698/%EC%97%B0%ED%95%A9)
+17. [통신망 분석 - 그래프](https://level.goorm.io/exam/195699/%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98-%EB%B0%80%EC%A7%91%EB%8F%84)
+18. [중첩 점 - DP&시뮬레이션](https://level.goorm.io/exam/195700/%EC%A4%91%EC%B2%A9-%EC%A0%90)
 <br>
 
 ## 🛠️ 2차 스터디 운영 기록
