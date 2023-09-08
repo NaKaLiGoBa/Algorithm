@@ -31,25 +31,27 @@ class Main {
 			// 1. draw given text
 			drawAt(row, col, c);
 			
-			globalVisited = new boolean[N][N];
-			for (int j = 0; j < board.length; j++) {
-				for (int k = 0; k < board[j].length; k++) {
-					// 2. count the component size and 
-					// if it meets the criteria then remove them
-					List<int[]> cache = new ArrayList<>();
-					char curChar = board[j][k];
-					if (curChar == '.') continue;
+			List<int[]> cache = new ArrayList<>();
+			if (calcComponentSize(cache, row, col, c) >= criteria) removeComponent(cache);
+			
+			// globalVisited = new boolean[N][N];
+			// for (int j = 0; j < board.length; j++) {
+			// 	for (int k = 0; k < board[j].length; k++) {
+			// 		// 2. count the component size and 
+			// 		// if it meets the criteria then remove them
+			// 		List<int[]> cache = new ArrayList<>();
+			// 		char curChar = board[j][k];
+			// 		if (curChar == '.') continue;
 					
-					if (globalVisited[j][k]) continue;
-					globalVisited[j][k] = true;
+			// 		if (globalVisited[j][k]) continue;
+			// 		globalVisited[j][k] = true;
 					
-					int componentSize = calcComponentSize(cache, j, k, curChar);
-					if (componentSize >= criteria) {
-						// System.out.println("init!" + criteria + " " + componentSize);
-						removeComponent(cache);
-					}
-				}
-			}
+			// 		int componentSize = calcComponentSize(cache, j, k, curChar);
+			// 		if (componentSize >= criteria) {
+			// 			// System.out.println("init!" + criteria + " " + componentSize);
+			// 			removeComponent(cache);
+			// 		}
+			// 	}
 		}
 		
 		printResult();
@@ -62,8 +64,8 @@ class Main {
 	
 	private static int calcComponentSize(List<int[]> cache, int row, int col, int c) {
 		int componentSize = 1;
-		// boolean[][] visited = new boolean[N][N];
-		// visited[row][col] = true;
+		boolean[][] visited = new boolean[N][N];
+		visited[row][col] = true;
 		Queue<int[]> q = new LinkedList<>();
 		q.add(new int[]{row, col});
 		cache.add(new int[]{row, col});
@@ -72,22 +74,22 @@ class Main {
 			int[] cur = q.poll();
 			int curRow = cur[0];
 			int curCol = cur[1];
-			globalVisited[curRow][curCol] = true;
+			// globalVisited[curRow][curCol] = true;
 			
 			for (int i = 0; i < 4; i++) {
 				int nextRow = curRow + dRow[i];
 				int nextCol = curCol + dCol[i];
 				
 				if (nextRow < 0 || nextRow >= N || nextCol < 0 || nextCol >= N) continue;
-				// if (visited[nextRow][nextCol]) continue;
-				if (globalVisited[nextRow][nextCol]) continue;
-				// visited[nextRow][nextCol] = true;
+				if (visited[nextRow][nextCol]) continue;
+				// if (globalVisited[nextRow][nextCol]) continue;
+				visited[nextRow][nextCol] = true;
 				if (board[nextRow][nextCol] != c) continue;
 				
 				componentSize++;
 				q.add(new int[]{nextRow, nextCol});
 				cache.add(new int[]{nextRow, nextCol});
-				globalVisited[nextRow][nextCol] = true;
+				// globalVisited[nextRow][nextCol] = true;
 			}
 			
 		}
