@@ -42,11 +42,11 @@
 ### 학습 결과
 아래와 같은 문제와 유형들을 다룰 수 있었습니다:
 #### 1주차
-* [백준 1463번: 1로 만들기](https://www.acmicpc.net/problem/1463)
 * [백준 12865번: 평범한 배낭](https://www.acmicpc.net/problem/12865)
 * [백준 2579번: 계단 오르기](https://www.acmicpc.net/problem/2579)
-* [백준 1309번: 동물원](https://www.acmicpc.net/problem/1309)
+* [백준 1463번: 1로 만들기](https://www.acmicpc.net/problem/1463)
 * [백준 9084번: 동전](https://www.acmicpc.net/problem/9084)
+* [백준 1309번: 동물원](https://www.acmicpc.net/problem/1309)
 
 
 ## 🛠️ 1차 스터디 운영 기록
