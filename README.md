@@ -41,13 +41,19 @@
 
 ### 학습 결과
 아래와 같은 문제와 유형들을 다룰 수 있었습니다:
-#### 1주차
-* [백준 12865번: 평범한 배낭](https://www.acmicpc.net/problem/12865)
-* [백준 2579번: 계단 오르기](https://www.acmicpc.net/problem/2579)
-* [백준 1463번: 1로 만들기](https://www.acmicpc.net/problem/1463)
-* [백준 9084번: 동전](https://www.acmicpc.net/problem/9084)
-* [백준 1309번: 동물원](https://www.acmicpc.net/problem/1309)
+#### 2주차
+* [백준 13460번: 구슬 탈출 2](https://www.acmicpc.net/problem/13460)-구현
+* [백준 9251번: LCS](https://www.acmicpc.net/problem/9251) - DP
+* [백준 9095번: 1,2,3 더하기](https://www.acmicpc.net/problem/9095) - DP
+<br>
 
+#### 1주차
+* [백준 12865번: 평범한 배낭](https://www.acmicpc.net/problem/12865) - DP
+* [백준 2579번: 계단 오르기](https://www.acmicpc.net/problem/2579) - DP
+* [백준 1463번: 1로 만들기](https://www.acmicpc.net/problem/1463) - DP
+* [백준 9084번: 동전](https://www.acmicpc.net/problem/9084) - DP
+* [백준 1309번: 동물원](https://www.acmicpc.net/problem/1309) - DP
+<br>
 
 ## 🛠️ 1차 스터디 운영 기록
 10시 부터 19시까지 운영되는 웹개발 국비KDT훈련 스케쥴에 초점을 맞춰 스터디를 운영했습니다. 아래 운영 프로토콜을 확인하여 인사이트를 얻어가시면 좋습니다.
