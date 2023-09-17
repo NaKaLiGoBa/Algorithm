@@ -42,17 +42,19 @@
 ### 학습 결과
 아래와 같은 문제와 유형들을 다룰 수 있었습니다:
 #### 2주차
-* [백준 13460번: 구슬 탈출 2](https://www.acmicpc.net/problem/13460)-구현
-* [백준 9251번: LCS](https://www.acmicpc.net/problem/9251) - DP
-* [백준 9095번: 1,2,3 더하기](https://www.acmicpc.net/problem/9095) - DP
+* [백준 13460번: 구슬 탈출 2](https://www.acmicpc.net/problem/13460)
+* [백준 9251번: LCS](https://www.acmicpc.net/problem/9251)
+* [백준 9095번: 1,2,3 더하기](https://www.acmicpc.net/problem/9095)
+* [백준 11053번: 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+* [백준 1915번: 가장 큰 정사각형](https://www.acmicpc.net/problem/1915)
 <br>
 
 #### 1주차
-* [백준 12865번: 평범한 배낭](https://www.acmicpc.net/problem/12865) - DP
-* [백준 2579번: 계단 오르기](https://www.acmicpc.net/problem/2579) - DP
-* [백준 1463번: 1로 만들기](https://www.acmicpc.net/problem/1463) - DP
-* [백준 9084번: 동전](https://www.acmicpc.net/problem/9084) - DP
-* [백준 1309번: 동물원](https://www.acmicpc.net/problem/1309) - DP
+* [백준 12865번: 평범한 배낭](https://www.acmicpc.net/problem/12865)
+* [백준 2579번: 계단 오르기](https://www.acmicpc.net/problem/2579)
+* [백준 1463번: 1로 만들기](https://www.acmicpc.net/problem/1463)
+* [백준 9084번: 동전](https://www.acmicpc.net/problem/9084)
+* [백준 1309번: 동물원](https://www.acmicpc.net/problem/1309)
 <br>
 
 ## 🛠️ 1차 스터디 운영 기록
