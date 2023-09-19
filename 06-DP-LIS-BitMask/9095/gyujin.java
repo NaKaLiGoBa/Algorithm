@@ -12,8 +12,12 @@ public class Main {
         for (int test_case = 1; test_case <= T; test_case++) {
             int n = Integer.parseInt(br.readLine());
             int cnt = 0;
+            
+            if (dp[n] != 0) {
+                sb.append(dp[n]).append('\n');
+                continue;
+            }
             three(n, cnt);
-
             sb.append(dp[n]).append('\n');
         }
         System.out.println(sb);
