@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1992
+
 import java.io.*;
 import java.util.*;
 public class Main {
@@ -17,8 +19,6 @@ public class Main {
     }
 
     private static void recursive(int startY, int startX, int size) {
-
-
         int firstOne = frame[startY][startX];
         boolean consistent = true;
         for (int y = startY; y < startY + size; y++) {
