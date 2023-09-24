@@ -41,6 +41,15 @@
 
 ### 학습 결과
 아래와 같은 문제와 유형들을 다룰 수 있었습니다:
+#### 3주차
+* [백준 1992번: 쿼드트리](https://www.acmicpc.net/problem/1992)
+* [백준 4781번: 사탕 가게](https://www.acmicpc.net/problem/4781)
+* [백준 1562번: 계단 수](https://www.acmicpc.net/problem/1562)
+* [백준 2293번: 동전 1](https://www.acmicpc.net/problem/2293)
+* [백준 2096번: 내려가기](https://www.acmicpc.net/problem/2096)
+
+<br>
+
 #### 2주차
 * [백준 13460번: 구슬 탈출 2](https://www.acmicpc.net/problem/13460)
 * [백준 9251번: LCS](https://www.acmicpc.net/problem/9251)
